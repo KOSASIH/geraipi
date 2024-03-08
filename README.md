@@ -70,3 +70,48 @@ By actively addressing these challenges, Gerai Pi Indonesia aims to pave the way
 
 # Contributor Guide 
 
+**Gerai Pi Indonesia Contributor Guide**
+
+Welcome to Gerai Pi! We appreciate your interest in contributing to our platform. Here's a guide to help you navigate the process and make meaningful contributions:
+
+**1. Getting Started:**
+   - Familiarize yourself with Gerai Pi's vision, mission, and values outlined in our documentation.
+   - Review the platform's features, functionality, and existing contributions to understand the ecosystem.
+
+**2. Join the Community:**
+   - Engage with the Gerai Pi community on our forums or communication channels.
+   - Participate in discussions, share ideas, and seek clarification on any aspects you find unclear.
+
+**3. Technical Requirements:**
+   - Ensure you have the necessary technical skills and tools relevant to your intended contribution.
+   - Check our development documentation for coding standards, version control practices, and other technical guidelines.
+
+**4. Explore Contribution Opportunities:**
+   - Identify areas where you can contribute, whether it's code enhancements, bug fixes, documentation updates, or community outreach.
+
+**5. Collaboration and Communication:**
+   - Coordinate with the development team and other contributors through our communication channels.
+   - Use version control systems (e.g., Git) to collaborate on code changes. Fork the repository, create a branch for your work, and submit pull requests.
+
+**6. Reporting Issues:**
+   - If you encounter bugs or have suggestions for improvement, use our issue tracker to report them.
+   - Provide detailed information, steps to reproduce, and any relevant logs to facilitate quicker issue resolution.
+
+**7. Code Contributions:**
+   - Follow our coding standards and guidelines when submitting code contributions.
+   - Clearly document your code, explaining the purpose and functionality.
+   - Ensure that your changes do not introduce new bugs and pass existing tests.
+
+**8. Documentation Contributions:**
+   - Contribute to our documentation by updating existing content or creating new guides.
+   - Clarify complex concepts, provide examples, and ensure information is up-to-date.
+
+**9. Community Support:**
+   - Help fellow contributors and community members by offering support and guidance.
+   - Share your expertise and contribute to discussions to strengthen the sense of community.
+
+**10. Recognition:**
+   - Contributors play a crucial role in the success of Gerai Pi. We acknowledge and appreciate your efforts.
+   - Recognize outstanding contributions through our community channels or periodic contributor spotlights.
+
+Remember, collaboration and open communication are key. Your contributions contribute to the growth and success of Gerai Pi. Thank you for being a part of our community!
