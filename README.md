@@ -8,7 +8,7 @@ Gerai Pi Indonesia is one of the P2App Marketplaces which will become a Digitali
 - [Vision And Missions](#vision-and-missions)
 - [Problems To Solve](#problems-to-solve)
 - [Contributor Guide](#contributor-guide)
-- [Aknowledgement](#aknowledgement.md) 
+- [Aknowledgement](AKNOWLEDGEMENT.md) 
 
 
 
